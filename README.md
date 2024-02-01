@@ -20,7 +20,7 @@ Nasza oferta obejmuje różnorodne usługi informatyczne, obejmujące między in
 
 ### Deweloperzy
 
-#### [Wiesio](https://github.com/wiesiowski)
+#### [Wiesio](https://github.com/wiesiodev)
 
 Wiesio to pasjonat programowania z bogatym doświadczeniem w projektach związanych z Pythonem i technologiami webowymi. Jego zaangażowanie w doskonalenie kodu i tworzenie efektywnych rozwiązań czyni go niezastąpionym członkiem naszego zespołu.
 
