@@ -20,13 +20,13 @@ Nasza oferta obejmuje różnorodne usługi informatyczne, obejmujące między in
 
 ### Deweloperzy
 
-#### [WiesioDev](https://github.com/wiesiowski)
+#### [Wiesio](https://github.com/wiesiowski)
 
-WiesioDev to pasjonat programowania z bogatym doświadczeniem w projektach związanych z Pythonem i technologiami webowymi. Jego zaangażowanie w doskonalenie kodu i tworzenie efektywnych rozwiązań czyni go niezastąpionym członkiem naszego zespołu.
+Wiesio to pasjonat programowania z bogatym doświadczeniem w projektach związanych z Pythonem i technologiami webowymi. Jego zaangażowanie w doskonalenie kodu i tworzenie efektywnych rozwiązań czyni go niezastąpionym członkiem naszego zespołu.
 
-#### [WronaDev](https://github.com/WronaDEV)
+#### [Wrona](https://github.com/WronaDEV)
 
-WronaDev to kreatywny deweloper specjalizujący się w projektach JavaScript. Jego umiejętności pozwalają mu tworzyć innowacyjne aplikacje internetowe, dostarczając klientom unikalne i zgodne z najnowszymi trendami rozwiązania.
+Wrona to kreatywny deweloper specjalizujący się w projektach JavaScript. Jego umiejętności pozwalają mu tworzyć innowacyjne aplikacje internetowe, dostarczając klientom unikalne i zgodne z najnowszymi trendami rozwiązania.
 
 ---
 
