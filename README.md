@@ -20,11 +20,11 @@ Nasza oferta obejmuje różnorodne usługi informatyczne, obejmujące między in
 
 ### Deweloperzy
 
-#### [WiesioDev](https://github.com/wiesiowski)
+#### [WiesioDev](https://github.com/wiesiowski){:target="_blank"}
 
 WiesioDev to pasjonat programowania z bogatym doświadczeniem w projektach związanych z Pythonem i technologiami webowymi. Jego zaangażowanie w doskonalenie kodu i tworzenie efektywnych rozwiązań czyni go niezastąpionym członkiem naszego zespołu.
 
-#### [WronaDev](https://github.com/WronaDEV)
+#### [WronaDev](https://github.com/WronaDEV){:target="_blank"}
 
 WronaDev to kreatywny deweloper specjalizujący się w projektach JavaScript. Jego umiejętności pozwalają mu tworzyć innowacyjne aplikacje internetowe, dostarczając klientom unikalne i zgodne z najnowszymi trendami rozwiązania.
 
@@ -34,6 +34,6 @@ WronaDev to kreatywny deweloper specjalizujący się w projektach JavaScript. Je
 
 Zapraszamy do dołączenia do naszego serwera Discord, gdzie możesz bezpośrednio skontaktować się z naszym zespołem, omówić swoje potrzeby i uzyskać więcej informacji o naszych usługach.
 
-**[Link do serwera Discord](https://discord.gg/FwfXTq9Y)**
+**[Link do serwera Discord](https://discord.gg/FwfXTq9Y){:target="_blank"}**
 
 Jesteśmy gotowi przekształcić Twoje pomysły w rzeczywistość! "Zamień Fikcję w Rzeczywistość" z nami! 🚀
