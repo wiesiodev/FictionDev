@@ -40,6 +40,6 @@ WronaDev to kreatywny deweloper specjalizujący się w projektach JavaScript. Je
 
 Zapraszamy do dołączenia do naszego serwera Discord, gdzie możesz bezpośrednio skontaktować się z naszym zespołem, omówić swoje potrzeby i uzyskać więcej informacji o naszych usługach.
 
-**[Link do serwera Discord](https://discord.gg/FwfXTq9Y){:target="_blank"}**
+**[Link do serwera Discord](https://discord.gg/FwfXTq9Y){**
 
 Jesteśmy gotowi przekształcić Twoje pomysły w rzeczywistość! "Zamień Fikcję w Rzeczywistość" z nami! 🚀
