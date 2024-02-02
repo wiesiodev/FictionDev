@@ -1,4 +1,4 @@
-**Projekt Sklepu z Usługami Informatycznymi - "Zamień Fikcję w Rzeczywistość"**
+**FictionDev - "Zamień Fikcję w Rzeczywistość"**
 
 Witaj w projekcie "Zamień Fikcję w Rzeczywistość" - naszym celem jest dostarczanie wysokiej jakości usług informatycznych, które przenoszą koncepcje z wyobraźni do rzeczywistości. Poniżej znajdziesz informacje na temat naszego sklepu, oferowanych usług, oraz sekcję poświęconą naszym deweloperom.
 
@@ -14,7 +14,13 @@ Nasza oferta obejmuje różnorodne usługi informatyczne, obejmujące między in
 
 - **Boty Discord:** Specjalizujemy się w projektowaniu i implementacji botów Discord, które zautomatyzują i ułatwią zarządzanie Twoim serwerem. 🤖
 
-- **Inne usługi:** Oferujemy szereg innych usług, takich jak analiza danych, tworzenie stron internetowych, aplikacje mobilne i wiele więcej. 🚀
+- **Serwery Minecraft:** Tworzymy i utrzymujemy serwery Minecraft, dostarczając unikalne doświadczenia dla społeczności graczy. 🎮
+
+- **Projekty C++:** Oferujemy kompleksowe rozwiązania oparte na języku C++, dostosowane do wymagań konkretnego projektu.
+
+- **Web Development:** Tworzymy profesjonalne strony internetowe, zapewniając atrakcyjny wygląd i funkcjonalność zgodną z najnowszymi standardami. 💻
+
+- **Inne usługi:** Oferujemy szereg innych usług, takich jak analiza danych, aplikacje mobilne i wiele więcej. 🚀
 
 ---
 
@@ -22,11 +28,11 @@ Nasza oferta obejmuje różnorodne usługi informatyczne, obejmujące między in
 
 #### [Wiesio](https://github.com/wiesiodev)
 
-Wiesio to pasjonat programowania z bogatym doświadczeniem w projektach związanych z Pythonem i technologiami webowymi. Jego zaangażowanie w doskonalenie kodu i tworzenie efektywnych rozwiązań czyni go niezastąpionym członkiem naszego zespołu.
+WiesioDev to pasjonat programowania z bogatym doświadczeniem w projektach związanych z Pythonem i technologiami webowymi. Jego zaangażowanie w doskonalenie kodu i tworzenie efektywnych rozwiązań czyni go niezastąpionym członkiem naszego zespołu.
 
 #### [Wrona](https://github.com/WronaDEV)
 
-Wrona to kreatywny deweloper specjalizujący się w projektach JavaScript. Jego umiejętności pozwalają mu tworzyć innowacyjne aplikacje internetowe, dostarczając klientom unikalne i zgodne z najnowszymi trendami rozwiązania.
+WronaDev to kreatywny deweloper specjalizujący się w projektach JavaScript. Jego umiejętności pozwalają mu tworzyć innowacyjne aplikacje internetowe, dostarczając klientom unikalne i zgodne z najnowszymi trendami rozwiązania.
 
 ---
 
@@ -34,6 +40,6 @@ Wrona to kreatywny deweloper specjalizujący się w projektach JavaScript. Jego 
 
 Zapraszamy do dołączenia do naszego serwera Discord, gdzie możesz bezpośrednio skontaktować się z naszym zespołem, omówić swoje potrzeby i uzyskać więcej informacji o naszych usługach.
 
-**[Link do serwera Discord](https://discord.gg/FwfXTq9Y)**
+**[Link do serwera Discord](https://discord.gg/FwfXTq9Y){:target="_blank"}**
 
 Jesteśmy gotowi przekształcić Twoje pomysły w rzeczywistość! "Zamień Fikcję w Rzeczywistość" z nami! 🚀
